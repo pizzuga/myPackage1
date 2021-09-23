@@ -1,0 +1,15 @@
+Package: myPackage1
+Title: it wruite sentences about the noise an animal makes
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Stefano",
+           family = "Romanelli",
+           role = c("aut", "cre"),
+           email = "romanelli@lamma.toscana.it",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
